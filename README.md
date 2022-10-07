@@ -1,10 +1,11 @@
-# 2º Desafio do explorer Rocketseat 🚀
+# Corrigindo Bugs-2
 
 ![preview](./images/preview.png)
 
-O segundo desafio da trilha explorer da Rocketseat
+2º Desafio da trilha Explorar da Rocketseat.  
+Aprendemos sobre tags semanticas em HTML e mais conceitos sobre CSS.
 
-[🔗 Clique aqui para acessar](https://dilanferrari.github.io/2-desafio-rocktseat/)
+[🔗 Clique aqui para acessar](https://dilanferrari.github.io/corrigindo-bugs-2/)
 
 ## 🖥️ Tecnologias
 
